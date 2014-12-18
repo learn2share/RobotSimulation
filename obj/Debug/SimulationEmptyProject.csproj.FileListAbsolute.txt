@@ -1,0 +1,14 @@
+C:\Users\Administrator\Microsoft Robotics Dev Studio 4\bin\User.SimulationEmptyProject.Y2009.M03.dll
+C:\Users\Administrator\Microsoft Robotics Dev Studio 4\bin\User.SimulationEmptyProject.Y2009.M03.pdb
+C:\Users\Administrator\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project\obj\Debug\User.SimulationEmptyProject.Y2009.M03.dll
+C:\Users\Administrator\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project\obj\Debug\User.SimulationEmptyProject.Y2009.M03.pdb
+C:\Users\Administrator\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project - 副本\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project - 副本\obj\Debug\User.SimulationEmptyProject.Y2009.M03.dll
+C:\Users\Administrator\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project - 副本\obj\Debug\User.SimulationEmptyProject.Y2009.M03.pdb
+I:\答辩\Simulation Empty Project - 副本\obj\Debug\User.SimulationEmptyProject.Y2009.M03.dll
+I:\答辩\Simulation Empty Project - 副本\obj\Debug\User.SimulationEmptyProject.Y2009.M03.pdb
+I:\答辩\Simulation Empty Project - 副本\obj\Debug\SimulationEmptyProject.csprojResolveAssemblyReference.cache
+C:\Users\master\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project - 副本\obj\Debug\SimulationEmptyProject.csprojResolveAssemblyReference.cache
+C:\Users\master\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project - 副本\obj\Debug\User.SimulationEmptyProject.Y2009.M03.dll
+C:\Users\master\Microsoft Robotics Dev Studio 4\samples\SimulationTutorials\Beginner\Simulation Empty Project - 副本\obj\Debug\User.SimulationEmptyProject.Y2009.M03.pdb
